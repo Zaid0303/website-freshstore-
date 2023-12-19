@@ -25,7 +25,7 @@ include("includes/sidebar.php");
               </div>
               <!-- button -->
               <div>
-                <a href="products.html" class="btn btn-light">Back to Product</a>
+                <a href="products.php" class="btn btn-light">Back to Product</a>
               </div>
             </div>
 

@@ -22,7 +22,7 @@ include("includes/sidebar.php");
               </div>
               <!-- button -->
               <div>
-                <a href="add-product.html" class="btn btn-primary">Add Product</a>
+                <a href="add-product.php" class="btn btn-primary">Add Product</a>
               </div>
             </div>
           </div>
